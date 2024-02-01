@@ -11,7 +11,7 @@ const outfit = Outfit({ subsets: ["latin"] });
 
 export const metadata = {
   title: "El Manja Bilal",
-  description: "Made by Love",
+  description: "Made with Love",
 };
 
 export default function RootLayout({ children }) {
